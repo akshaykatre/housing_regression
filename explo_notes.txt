@@ -1,0 +1,20 @@
+Alley
+The overall effect should be minimal. Very few houses have alley. 
+
+Round 1: Lets drop it 
+
+Basement 
+
+BsmtQual:  Evaluates the height of the basement
+37 NA values 
+
+ 'BsmtCond',
+ 'BsmtExposure',
+ 'BsmtFinType1',
+ 'BsmtFinSF1',
+ 'BsmtFinType2',
+ 'BsmtFinSF2',
+ 'BsmtUnfSF',
+ 'TotalBsmtSF',
+ 'BsmtFullBath',
+ 'BsmtHalfBath']
