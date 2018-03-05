@@ -8,6 +8,47 @@ Basement
 BsmtQual:  Evaluates the height of the basement
 37 NA values 
 
+BsmtCond: Evaluates the general condition of the basement
+37 NA values
+
+BsmtExposure: Refers to walkout or garden level walls
+38 NA values
+
+BsmtFinType1: Rating of basement finished area
+37 NA values
+
+BsmtFinSF1: Type 1 finished square feet
+0 NA values. 
+However, there are 467 with values 0, meaning that a 
+large portion of them are unfinished
+
+BsmtFinType2: Rating of basement finished area (if multiple types)
+38 NA values 
+
+So at the times the rating of the basement is missing, while the 
+finished/ unfinished state is always known.
+
+BsmtFinSF2: Type 2 finished square feet
+0 NA values
+1293 have finsihed sq. feet of second basement. 
+
+Does this mean that 
+there is no second basement? 
+
+
+BsmtUnfSF: Unfinished square feet of basement area
+0 NA values
+
+TotalBsmtSF: Total square feet of basement area
+0 NA values
+
+BsmtFullBath: Basement full bathrooms
+0 NA values
+
+BsmtHalfBath: Basement half bathrooms
+0 NA values
+
+
  'BsmtCond',
  'BsmtExposure',
  'BsmtFinType1',
@@ -18,3 +59,5 @@ BsmtQual:  Evaluates the height of the basement
  'TotalBsmtSF',
  'BsmtFullBath',
  'BsmtHalfBath']
+
+
